@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ecf0f1"
+                android:orientation="vertical"
+                tools:context=".MainActivity"
+                tools:deviceIds="wear_square">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Open BLEUtility app \nin your iPhone, \nand select &quot;Peripheral&quot; tab"
+        android:textColor="#7f8c8d"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:gravity="center"
+        android:text="Connect to your iPhone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#2c3e50"
+        android:textSize="19sp"/>
+</RelativeLayout>

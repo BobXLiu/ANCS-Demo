@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/classes-7384bff68595b2fe6e47fb52e9352bc0ba78bcf7.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-f5c3a34a7e714fbb1a857e2b4fe697ca66deb3bd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-e6436d585fbd59863e162566b2b8943177904cea.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-99e2d2a459a63744997857225a7678397403f42e.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-f5c3a34a7e714fbb1a857e2b4fe697ca66deb3bd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/classes-7c4ef39e9d228c79a5d62f657eff3adf686df976.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-793b1b9f6af5f7a2d31960631aa74ebcdb695faf.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes-784c95832f37c9b7b22cb0c96d0f2498546834fd.jar" />
+    </item>
+    <item
+        jar="/home/bob/DeveloperTool/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-70b5143ab76e410244273faf616ff1d6e8d8dd76.jar" />
+    </item>
+    <item
+        jar="/home/bob/DeveloperTool/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1-72bd5720337fbd054ea2ece7604dd821f0b5ca93.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-567043b0d340aff0c6a285c374d5162055cd67cd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes-a54ac2cb9be8273188df6cdfcc2d17524ee8e1c4.jar" />
+    </item>
+    <item
+        jar="/home/bob/DeveloperTool/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-a3d7b8195cb891151248594c3bb701818c1390d3.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-4f59be2ed9a2efccfe0b0c8892dc482d8a6fe775.jar" />
+    </item>
+    <item
+        jar="/home/bob/DeveloperTool/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1-72bd5720337fbd054ea2ece7604dd821f0b5ca93.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-0e8cdf2b23e31253ab534a86b5fd6ef18898fea7.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-567043b0d340aff0c6a285c374d5162055cd67cd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/classes-9348843b0871ffa1b8ea9c309cd2c81db294a54a.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-967099537081b012664b7532a9315fcd37c8bbe4.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-4f59be2ed9a2efccfe0b0c8892dc482d8a6fe775.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-967099537081b012664b7532a9315fcd37c8bbe4.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-0e8cdf2b23e31253ab534a86b5fd6ef18898fea7.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7b9074e781184c5ee6206c021d102b792b2c091c.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/classes-a6e0e2b69fa130e947d9231585e3c55d00439eb6.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-7089f83da023ff3e695e05dd331e0f63fa013ffd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/classes-f50b9316c68c4e4024371b8b901b4d01270858c9.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7916207257a43fd626b92ecb19b3f5fe20235744.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7b9074e781184c5ee6206c021d102b792b2c091c.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-cfcbd1a5ed92077eccbe511850d3033998b1a821.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-c72d831a5ace3202a23b500fd72f6b5415ec3575.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-46842d0e6ead3de02058a71a8783d18b48afbd57.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-c72d831a5ace3202a23b500fd72f6b5415ec3575.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/libs/RootTools.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/wear/build/intermediates/pre-dexed/release/RootTools-5f015173154f68f9e27383b6fdd2d7988a61f93c.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-cfcbd1a5ed92077eccbe511850d3033998b1a821.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-e6436d585fbd59863e162566b2b8943177904cea.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-99935d0be8ee030b9035bd3e9920ad0ace40be48.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-99e2d2a459a63744997857225a7678397403f42e.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-7089f83da023ff3e695e05dd331e0f63fa013ffd.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7899a77244f7eec15b810c8d86acd14fb56e76f9.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes-1e36619b891a721ab314e29e171685d1488c9d90.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-dc1d945debf4ce5dbb456b9f9c1fb9f63ceb99cf.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7899a77244f7eec15b810c8d86acd14fb56e76f9.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-7916207257a43fd626b92ecb19b3f5fe20235744.jar" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bob/AndroidStudioProjects/BluetoothLeGatt/app/build/intermediates/pre-dexed/debug/classes-99935d0be8ee030b9035bd3e9920ad0ace40be48.jar" />
+    </item>
+
+</items>

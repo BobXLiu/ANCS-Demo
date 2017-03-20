@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/music_controll_stub"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:deviceIds="wear">
+
+    <!--app:rectLayout="@layout/rect_activity_music_control"-->
+    <!--app:roundLayout="@layout/round_activity_music_control"-->
+    <include layout="@layout/rect_activity_music_control"/>
+    <include layout="@layout/round_activity_music_control"/>
+</LinearLayout>
